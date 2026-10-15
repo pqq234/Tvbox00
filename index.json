@@ -379,6 +379,13 @@
    "ext": ""
   },
   {
+   "key": "py_hsck",
+   "name": "黄色仓库动态版[py]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/Tvbox00/main/hsck.py",
+   "ext": ""
+  },
+  {
    "key": "py_rolizxwnoble",
    "name": "乱伦仓库[py]",
    "type": 3,
