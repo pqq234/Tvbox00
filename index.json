@@ -2,12 +2,6 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/dql521/Tvbox18/main/jar/xyqxbpq.jar",
  "sites": [
   {
-   "key": "src_heiapi",
-   "name": "嘿嘿",
-   "api": "https://api.heiapi.cc/api.php/provide/vod/",
-   "type": 1
-  },
-  {
    "key": "src_fhapi9",
    "name": "番号资源",
    "api": "http://fhapi9.com/api.php/provide/vod/",
